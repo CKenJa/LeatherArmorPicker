@@ -1,5 +1,6 @@
 # LeatherArmorPicker
 by Command Macro in Minecraft 1.20.2
+浴衣はこっち→https://github.com/CKenJa/YukataTrim
 
 ## How to use
 
