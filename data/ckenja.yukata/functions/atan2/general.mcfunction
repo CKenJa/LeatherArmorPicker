@@ -1,5 +1,5 @@
 #https://garchiving.com/approximation-atan2/
-#返り値は1000000倍で-180~180の範囲。引数は100までを想定。たぶん2000超えると良くない
+#返り値は1000000倍で-180~180の範囲。引数は100までを想定。たぶん200超えると良くない
 execute store success score #atan2.plus_x ckenja.yukata if score #atan2.x ckenja.yukata matches 1..
 execute store success score #atan2.minus_x ckenja.yukata if score #atan2.x ckenja.yukata matches ..-1
 execute store success score #atan2.plus_y ckenja.yukata if score #atan2.y ckenja.yukata matches 1..
